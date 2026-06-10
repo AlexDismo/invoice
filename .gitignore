@@ -1,0 +1,14 @@
+# duplicate junction — backend/ is the real source
+/project
+
+# task PDF
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+.cursor/
